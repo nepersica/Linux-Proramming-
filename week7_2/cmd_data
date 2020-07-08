@@ -1,0 +1,17 @@
+합계 120
+prw-rw-r-- 1 sa sa     0  6월 16 14:34 chatfifo01
+prw-rw-r-- 1 sa sa     0  6월 16 14:34 chatfifo02
+-rwxrwxr-x 1 sa sa 17216  6월 16 14:34 client
+-rw-rw-r-- 1 sa sa     0  6월 16 14:34 cmd_data
+-rwxrwxr-x 1 sa sa 16816  6월 15 21:59 ex1
+-rw-rw-r-- 1 sa sa   544  6월 15 21:59 ex1.c
+-rwxrwxr-x 1 sa sa 17040  6월 16 12:09 ex2
+-rw-rw-r-- 1 sa sa   600  6월 16 12:09 ex2.c
+-rwxrwxr-x 1 sa sa 17040  6월 16 14:02 ex3
+-rw-rw-r-- 1 sa sa   837  6월 16 14:02 ex3.c
+-rw-rw-r-- 1 sa sa  1016  6월 16 14:34 ex4_client.c
+-rw-rw-r-- 1 sa sa  2208  6월 16 14:34 ex4_server.c
+-rwxrwxr-x 1 sa sa 17304  6월 16 14:34 server
+[SERVER] PIPE CLOSE
+[SERVER] PIPE DESTROYED
+[SERVER] SERVER EXIT

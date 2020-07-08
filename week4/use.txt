@@ -1,0 +1,5 @@
+========== Menu ==========
+d : Current Date
+l : Current Directory List
+w : Current Shell's Absolute Path
+q : quit
